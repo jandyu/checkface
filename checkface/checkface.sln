@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkface", "checkface\checkface.csproj", "{918EE6D1-D663-48E9-98EC-0C4479417A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ET.Base.Camera", "Base.Camera\ET.Base.Camera.csproj", "{F4FFD940-F5BB-45A3-8109-61FACF5FB9F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ET.Inte.Hik", "ET.Inte.Hik\ET.Inte.Hik.csproj", "{BACF2109-4AB2-474F-BDB0-F4B28874E0A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918EE6D1-D663-48E9-98EC-0C4479417A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918EE6D1-D663-48E9-98EC-0C4479417A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918EE6D1-D663-48E9-98EC-0C4479417A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918EE6D1-D663-48E9-98EC-0C4479417A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4FFD940-F5BB-45A3-8109-61FACF5FB9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FFD940-F5BB-45A3-8109-61FACF5FB9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FFD940-F5BB-45A3-8109-61FACF5FB9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FFD940-F5BB-45A3-8109-61FACF5FB9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACF2109-4AB2-474F-BDB0-F4B28874E0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACF2109-4AB2-474F-BDB0-F4B28874E0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACF2109-4AB2-474F-BDB0-F4B28874E0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACF2109-4AB2-474F-BDB0-F4B28874E0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
